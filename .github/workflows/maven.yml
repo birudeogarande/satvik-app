@@ -35,7 +35,7 @@ jobs:
       with:
         image: biru1234/satvik-app
         tags: v1, latest
-        registry: docker.io
+        registry: hub.docker.com
         dockerfile: Dockerfile
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
