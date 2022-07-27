@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springboot-image</finalName>
+		<finalName>satvik-app</finalName>
 	</build>
 
 </project>
